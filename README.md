@@ -66,7 +66,7 @@ DimCalendar ──1:N──> olist_orders_dataset <──N:1── olist_custome
 - **Power Query** (M Language)
 
 ## File del Report
-[Scarica il file Power BI (.pbix) da Google Drive](https://drive.google.com/file/d/15IKybe32Lmd3oMcLOjHd173aQpIHcZaP/view?usp=drive_link)
+[Scarica il file Power BI (.pbix) da Google Drive](https://drive.google.com/file/d/1G_YUAhuyKuUT80Igs9SWP5goecUAqDg3/view?usp=drive_link)
 
 ## Dataset
 [Olist Brazilian E-Commerce Dataset - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
